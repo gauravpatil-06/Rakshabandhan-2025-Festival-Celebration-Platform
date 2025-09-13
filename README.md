@@ -41,8 +41,97 @@
 
 ## 📸 Project Screenshots
 
-#### 🌐 User Role
-(Add user side screenshots here)
+## 🔄 Flowchart
 
-#### 🛠️ Admin Role
-(Add admin side screenshots here)
+<hr style="border:0.5px solid #ccc; width:50%; margin:auto;">
+
+## 📂 Project Directory Structure
+
+```bash
+├── app
+    ├── about
+    │   └── page.tsx
+    ├── api
+    │   ├── contact
+    │   │   └── route.ts
+    │   ├── orders
+    │   │   └── route.ts
+    │   └── wishes
+    │   │   ├── [id]
+    │   │       └── route.ts
+    │   │   └── route.ts
+    ├── gallery
+    │   └── page.tsx
+    ├── gifts
+    │   ├── loading.tsx
+    │   └── page.tsx
+    ├── globals.css
+    ├── layout.tsx
+    ├── order-history
+    │   └── page.tsx
+    ├── order
+    │   ├── loading.tsx
+    │   └── page.tsx
+    ├── page-wrapper.tsx
+    ├── page.tsx
+    ├── send-wishes
+    │   └── page.tsx
+    ├── wishes-wall
+    │   └── page.tsx
+    └── wishlist
+    │   └── page.tsx
+├── components.json
+├── components
+    ├── contact-modal.tsx
+    ├── countdown-timer.tsx
+    ├── layout
+    │   ├── footer.tsx
+    │   └── header.tsx
+    ├── theme-provider.tsx
+    └── ui
+    │   ├── avatar.tsx
+    │   ├── badge.tsx
+    │   ├── button.tsx
+    │   ├── card.tsx
+    │   ├── input.tsx
+    │   ├── select.tsx
+    │   ├── textarea.tsx
+    │   ├── toast.tsx
+    │   └── toaster.tsx
+├── hooks
+    ├── use-toast.ts
+    └── use-wishlist.ts
+├── lib
+    ├── supabase.ts
+    └── utils.ts
+├── next.config.mjs
+├── package.json
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+├── public
+    ├── beautiful-rakhi-thread.png
+    ├── cartoon-rakhi-kids-fun.png
+    ├── festive-rakhi-pattern.png
+    ├── gaurav-profile.png
+    ├── handmade-rakhi-colorful-beads.png
+    ├── mauli-rakhi-traditional.png
+    ├── modern-designer-rakhi.png
+    ├── pearl-rakhi-white-elegant.png
+    ├── placeholder-logo.png
+    ├── placeholder-logo.svg
+    ├── placeholder-user.jpg
+    ├── placeholder-xkigo.png
+    ├── placeholder.jpg
+    ├── placeholder.svg
+    ├── silver-rakhi-elegant.png
+    └── traditional-rakhi-red-gold.png
+├── scripts
+    ├── 01-create-tables.sql
+    ├── 02-update-tables.sql
+    └── 03-update-orders-table.sql
+├── styles
+    └── globals.css
+├── tailwind.config.ts
+└── tsconfig.json
+
+
