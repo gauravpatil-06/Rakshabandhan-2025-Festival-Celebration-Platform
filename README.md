@@ -57,7 +57,7 @@ The project demonstrates **modern frontend architecture, routing, API handling, 
 
 ---
 
-🎯 Ideal For
+## 🎯 Ideal For
 
 ✔ Festival celebration websites
 ✔ Rakshabandhan digital celebration & gifting platforms
