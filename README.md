@@ -57,14 +57,14 @@ The project demonstrates **modern frontend architecture, routing, API handling, 
 
 ---
 
-## 🎯 Ideal For
+🎯 Ideal For
 
-✔ Festival celebration websites  
-✔ React / Next.js portfolio projects  
-✔ Frontend practice with real UI  
-✔ Digital greeting & celebration platforms  
+✔ Festival celebration websites
+✔ Rakshabandhan digital celebration & gifting platforms
+✔ Family & sibling bonding web experiences
+✔ Digital greeting & memory-sharing platforms
 
-This platform helps users **celebrate Rakshabandhan digitally** with friends and family.
+This platform helps users celebrate Rakshabandhan digitally with love, gifts, and memories 💝🎀
 
 ---
 
